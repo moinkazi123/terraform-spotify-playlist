@@ -1,0 +1,1 @@
+The goal of the project was to automate the creation of a Spotify playlist filled with some of my favorite tracks. Using Terraform, I was able to interact with the Spotify API to fetch specific tracks and automatically add them to a playlist.
